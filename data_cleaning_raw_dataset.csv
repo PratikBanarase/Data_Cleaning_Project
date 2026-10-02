@@ -1,0 +1,21 @@
+Customer_ID,Customer_Name,Age,Gender,City,Email,Purchase_Amount,Purchase_Date,Product_Category
+C001, Rahul Sharma ,25,Male,Pune,rahul@gmail.com,"12,500",2026-01-15,Electronics
+C002,Priya  Patil,28,Female,Mumbai,priya@gmail.com,8500,15/01/2026,Clothing
+C003,Amit Deshmukh,31,M,Pune,amit@gmail.com,"7,200",2026/02/10,electronics
+C004,Sneha Joshi,,Female,Nashik,sneha@gmail.com,15000,"March 5, 2026",Grocery
+C005,Rohan Kulkarni,42,male,Nagpur,rohan@gmail.com,,2026-03-12,Clothing
+C006,Neha Singh,29,F,pune,neha@gmail.com,"9,999",12-03-2026,Electronics
+C007,Vikas  More,thirty,Male,Mumbai ,vikas@gmail,6800,2026-04-01,Grocery
+C008,Anjali Shah,35,female,Nashik,anjali@gmail.com,₹12000,05/04/2026,Clothing 
+C009,Karan Mehta,27,Male,Pune,karan@gmail.com,4500,2026-04-20,Electronics
+C010,Pooja Nair,24,Female,Mumbai,pooja@gmail.com,"15,500",2026-05-01,Grocery
+C011,Arjun Patil,39,M,Nagpur,arjun@gmail.com,7200,15-05-2026,Clothing
+C012,Meena Joshi,41,Female,Pune,,,2026-06-10,Electronics
+C013,Sagar Pawar,,Male,Mumbai,sagar@gmail.com,9100,,Grocery
+C014,Isha Kulkarni,33,F,Nashik,isha@gmail.com,11000,2026-07-12,Electronics
+C015,Ritesh More,26,Male,Pune,ritesh@gmail.com,"5,500",13/07/2026,Clothing
+C003,Amit Deshmukh,31,M,Pune,amit@gmail.com,7200,2026-02-10,electronics
+C017,Kavita Shah,120,Female,Mumbai,kavita@gmail.com,13000,2026-08-05,Grocery
+C018,Omkar Jadhav,30,Male,Pune,,,2026-08-20,Electronics
+C019,  Nikhil Patil,22,Female,Nagpur,nikhil@gmail.com,"6,750",2026-09-01,Clothing
+C020,Snehal  Rao,27,female,Mumbai,snehal@gmail.com,"10,200",2026-09-10,Grocery
